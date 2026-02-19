@@ -1,4 +1,4 @@
-# Nome da Ontologia: [Inserir Nome]
+# Nome da Ontologia: CompOnt
 
 ![Ontology Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow)
 ![BFO Version](https://img.shields.io/badge/BFO-2020-blue)
