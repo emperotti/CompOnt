@@ -53,4 +53,4 @@
 * **IRIs**: Identificadores persistentes seguindo os padrões W3C.
 
 ---
-*Documentação gerada com apoio de OntoMaster BFO.*
+*Autores:*
